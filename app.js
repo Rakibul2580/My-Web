@@ -1,4 +1,4 @@
-alert('This website is a not a complete')
+// alert('This website is a not a complete')
 const caresDisplya = () => {
     const cards = document.getElementById('all-card')
     data.forEach(data => {
